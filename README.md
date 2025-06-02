@@ -43,11 +43,11 @@ php artisan db:seed
 
 ## 使用技術(実行環境)
 
-・PHP 7.4.9
-・Laravel 8.83.29
-・MySQL 8.0.26
-・Docker / Docker Compose
-・phpMyAdmin
+・PHP 7.4.9<br>
+・Laravel 8.83.29<br>
+・MySQL 8.0.26<br>
+・Docker / Docker Compose<br>
+・phpMyAdmin<br>
 
 ## ER 図
 
