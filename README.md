@@ -51,7 +51,7 @@ php artisan db:seed
 
 ## ER 図
 
-![商品の画面](./products.png)
+![商品の画面](./products .png)
 
 
 ## URL
